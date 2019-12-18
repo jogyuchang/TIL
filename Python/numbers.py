@@ -12,4 +12,7 @@ print(a * b)
 
 print(a / b)
 print(a // b)   # 몫
+
 print(a % b)
+# 짝 / 홀
+# 값 % 2 
